@@ -1,0 +1,56 @@
+SPRINT 13,27 ago - 15 sep,,SPRINT 14,17 sep - 07 oct,,SPRINT 15,08 oct - 28 oct,,SPRINT 16,29 oct - 18 nov,,SPRINT 17,19 nov - 09 dic
+,,,,,,,,,,,,
+USABILIDAD,,USABILIDAD,,USABILIDAD,,USABILIDAD,,USABILIDAD
+"• [US] Email validación SF-1025
+• [US] Var Email via SMTP Clásico SF-I045
+• [US] Función acceso a Clientes no categorizados SF I031","• [US] Catálogo de notificaciones SF-216
+• [US] Función acceso a Clientes carterizados SF I031","• [US] SF 950 Clientes y Grupos - I
+• [US] Relación Comunicaciones y Gestión
+• [US] Comunicaciones STO","• [US] SF 504 (Editar y Rectactar dplica) PT CIBER
+• [US] Valores de mercado SF 212","• [OP] CRM Asociado SF 513 (cte. Rectactar)
+• [OP] Dashboard con las nuevas funcionalidades (cte redactar)"
+,,,,,,,,,,,,
+FICHA CLIENTE,,FICHA CLIENTE,,FICHA CLIENTE,,FICHA CLIENTE,,FICHA CLIENTE
+"• Oportunidades asociadas
+• Contactos asociados
+• Cartera
+• Ficha Contactos","• Continuación facturación SF 962 (movido del I3)
+• Historial de cambios
+• Registro de Interacciones","• KPIs Cliente Batch (cont.)
+• Grupo como Entidad
+• Mensajes e incidencias Interacciones SF III0
+• Entidad AM SF 302","• Facturación
+• Editar cliente
+• Módulo principal de contactos
+• iberU SF 46 (acceso a ficha cliente)
+• Edición gestor grupo y gestor cliente SF I026","• Acceso a iberU (Inicio)
+• Asesores SF I97 (sin HU)
+• Oportunidades SF 520
+• +DELTA I029"
+,,,,,,,,,,,,
+OPORTUNIDAD,,OPORTUNIDAD,,OPORTUNIDAD,,OPORTUNIDAD,,OPORTUNIDAD
+"(Sin tareas asignadas)","• Creación de la oportunidad SF 973
+• ABM Oportunidad - Pantalla listado oportunidades SF 978
+• Entidad AM SF 302","• [OP] Creación de una oferta parámetros técnicos F-I246
+• [OP] Estatus de oportunidad en la fase de negociación SF I056","• [OP] Creación de una oferta F-I245
+• [OP] Estatus oportunidad en fase de negociación SF I056
+• [OP] Alerta de oportunidades F-I250","• [OP] Creación de oferta parámetros especificados F-I247
+• [OP] Alta de oportunidades desde múltiples puntos F-I250
+• [OP] Criterios CM Especial SF-813"
+,,,,,,,,,,,,
+GESTIÓN DOC,,GESTIÓN DOC,,GESTIÓN DOC,,GESTIÓN DOC,,GESTIÓN DOC
+"(Sin tareas asignadas)","• Plantilla única PF-SF49 (se realizará en REDMINE)
+• GD Visualizar desde el CRM documentos de oferta y contratos cargados a través del softy clásico SF I023","• Módulo ppal Gestión Doc
+• Plantilla única PF-SF49 (se realizará en REDMINE)
+• GD Información Estructurada (de Usuario) SF 427
+• Impresión PDF Facturas SF 509","• Plantilla única PF-SF49 (se realizará en REDMINE)
+• GD Información Estructurada (de Usuario) SF 427","• Firma digital SF I022 Fase 0
+• [OP] y datos - Igual más contratos
+• Firma digital SF I022 - Fase 0"
+,,,,,,,,,,,,
+SOLICITUDES,,SOLICITUDES,,SOLICITUDES,,SOLICITUDES,,SOLICITUDES
+"• Ticket Correcciones Gestor Fase 0 SF I024","• Servicios CRM - migración GEIC SF 337
+• JIRAs SOVEN","• Servicios CRM - migración GEIC SF 337
+• JIRAs SOVEN","• Solicitudes del CRM
+• (Sin tareas específicas)","• JIRAs SOVEN
+• JIRAs SOVEN-Operaciones"
