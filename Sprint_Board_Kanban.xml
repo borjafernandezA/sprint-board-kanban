@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Workbook xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+  <Worksheet name="Sprint Board">
+    <SheetData>
+      <!-- HEADER SPRINTS -->
+      <Row r="1">
+        <Cell r="A1" s="1"><v>SPRINT 13</v></Cell>
+        <Cell r="B1" s="1"><v>27 ago - 15 sep</v></Cell>
+        <Cell r="C1" s="1"><v></v></Cell>
+        <Cell r="D1" s="1"><v>SPRINT 14</v></Cell>
+        <Cell r="E1" s="1"><v>17 sep - 07 oct</v></Cell>
+        <Cell r="F1" s="1"><v></v></Cell>
+        <Cell r="G1" s="1"><v>SPRINT 15</v></Cell>
+        <Cell r="H1" s="1"><v>08 oct - 28 oct</v></Cell>
+        <Cell r="I1" s="1"><v></v></Cell>
+        <Cell r="J1" s="1"><v>SPRINT 16</v></Cell>
+        <Cell r="K1" s="1"><v>29 oct - 18 nov</v></Cell>
+        <Cell r="L1" s="1"><v></v></Cell>
+        <Cell r="M1" s="1"><v>SPRINT 17</v></Cell>
+        <Cell r="N1" s="1"><v>19 nov - 09 dic</v></Cell>
+      </Row>
+
+      <!-- USABILIDAD -->
+      <Row r="3">
+        <Cell r="A3" s="2"><v>USABILIDAD</v></Cell>
+        <Cell r="D3" s="2"><v>USABILIDAD</v></Cell>
+        <Cell r="G3" s="2"><v>USABILIDAD</v></Cell>
+        <Cell r="J3" s="2"><v>USABILIDAD</v></Cell>
+        <Cell r="M3" s="2"><v>USABILIDAD</v></Cell>
+      </Row>
+      <Row r="4">
+        <Cell r="A4" s="3"><v>• [US] Email validación SF-1025
+• [US] Var Email via SMTP
+• [US] Función acceso a Clientes</v></Cell>
+        <Cell r="D4" s="3"><v>• [US] Catálogo notificaciones SF-216
+• [US] Función acceso a Clientes
+• [US] Función acceso a Clientes</v></Cell>
+        <Cell r="G4" s="3"><v>• [US] SF 950 Clientes y Grupos
+• [US] Relación Comunicaciones
+• [US] Función acceso a Clientes</v></Cell>
+        <Cell r="J4" s="3"><v>• [US] SF 504 (Editar)
+• [US] Valores de mercado SF 212
+• [US] CRM Acceso a Clientes</v></Cell>
+        <Cell r="M4" s="3"><v>• [OP] CRM Asociado SF 513
+• [OP] Dashboard nuevas funcionalidades
+• [OP] Editar acceso</v></Cell>
+      </Row>
+
+      <!-- FICHA CLIENTE -->
+      <Row r="6">
+        <Cell r="A6" s="4"><v>FICHA CLIENTE</v></Cell>
+        <Cell r="D6" s="4"><v>FICHA CLIENTE</v></Cell>
+        <Cell r="G6" s="4"><v>FICHA CLIENTE</v></Cell>
+        <Cell r="J6" s="4"><v>FICHA CLIENTE</v></Cell>
+        <Cell r="M6" s="4"><v>FICHA CLIENTE</v></Cell>
+      </Row>
+      <Row r="7">
+        <Cell r="A7" s="3"><v>• Oportunidades asociadas
+• Contactos asociados
+• Cartera
+• Ficha Contactos</v></Cell>
+        <Cell r="D7" s="3"><v>• Continuación facturación SF 962
+• Historial de cambios
+• Registro de Interacciones</v></Cell>
+        <Cell r="G7" s="3"><v>• KPIs Cliente Batch (cont.)
+• Grupo como Entidad
+• Mensajes e incidencias</v></Cell>
+        <Cell r="J7" s="3"><v>• Facturación
+• Editar cliente
+• Módulo principal de contactos</v></Cell>
+        <Cell r="M7" s="3"><v>• Acceso a liberU (Inicio)
+• Asesores SF I97 (sin HU)
+• DELTA I029</v></Cell>
+      </Row>
+
+      <!-- OPORTUNIDAD -->
+      <Row r="9">
+        <Cell r="A9" s="5"><v>OPORTUNIDAD</v></Cell>
+        <Cell r="D9" s="5"><v>OPORTUNIDAD</v></Cell>
+        <Cell r="G9" s="5"><v>OPORTUNIDAD</v></Cell>
+        <Cell r="J9" s="5"><v>OPORTUNIDAD</v></Cell>
+        <Cell r="M9" s="5"><v>OPORTUNIDAD</v></Cell>
+      </Row>
+      <Row r="10">
+        <Cell r="A10" s="3"><v>• (Sin tareas)</v></Cell>
+        <Cell r="D10" s="3"><v>• Creación oportunidad SF 973
+• ABM Oportunidad - Pantalla listado
+• Oportunidades SF 978</v></Cell>
+        <Cell r="G10" s="3"><v>• [OP] Creación de oferta parámetros
+• [OP] Estatus de oportunidad
+• [OP] Negociación SF I056</v></Cell>
+        <Cell r="J10" s="3"><v>• [OP] Creación de una oferta
+• [OP] Estatus de oportunidad en fase
+• [OP] Alerta de oportunidades</v></Cell>
+        <Cell r="M10" s="3"><v>• [OP] Creación de oferta parámetros
+• [OP] Alta oportunidades desde múltiples
+• [OP] Criterios CM Especial SF-813</v></Cell>
+      </Row>
+
+      <!-- GESTIÓN DOC -->
+      <Row r="12">
+        <Cell r="A12" s="6"><v>GESTIÓN DOC</v></Cell>
+        <Cell r="D12" s="6"><v>GESTIÓN DOC</v></Cell>
+        <Cell r="G12" s="6"><v>GESTIÓN DOC</v></Cell>
+        <Cell r="J12" s="6"><v>GESTIÓN DOC</v></Cell>
+        <Cell r="M12" s="6"><v>GESTIÓN DOC</v></Cell>
+      </Row>
+      <Row r="13">
+        <Cell r="A13" s="3"><v>• (Sin tareas)</v></Cell>
+        <Cell r="D13" s="3"><v>• Plantilla única PF-SF49 (se realizará)
+• GD Visualizar desde CRM
+• Documentos de oferta y contratos
+• Cargados a través del softy classic SF I023</v></Cell>
+        <Cell r="G13" s="3"><v>• Módulo ppal Gestión Doc
+• Plantilla única PF-SF49
+• Impresión PDF Facturas SF 509</v></Cell>
+        <Cell r="J13" s="3"><v>• Plantilla única PF-SF49
+• GD Información estructurada
+• Información SF 427</v></Cell>
+        <Cell r="M13" s="3"><v>• Firma digital SF I022 Fase 0
+• [OP] y datos - Igual más contratos
+• Firma digital SF I022 - Fase 0</v></Cell>
+      </Row>
+
+      <!-- SOLICITUDES -->
+      <Row r="15">
+        <Cell r="A15" s="7"><v>SOLICITUDES</v></Cell>
+        <Cell r="D15" s="7"><v>SOLICITUDES</v></Cell>
+        <Cell r="G15" s="7"><v>SOLICITUDES</v></Cell>
+        <Cell r="J15" s="7"><v>SOLICITUDES</v></Cell>
+        <Cell r="M15" s="7"><v>SOLICITUDES</v></Cell>
+      </Row>
+      <Row r="16">
+        <Cell r="A16" s="3"><v>• Ticket Correcciones Gestor
+• Fase 0 SF I024</v></Cell>
+        <Cell r="D16" s="3"><v>• Servicios CRM - migración GEIC
+• SF 337</v></Cell>
+        <Cell r="G16" s="3"><v>• Servicios CRM - migración GEIC SF 337
+• JIRAs SOVEN</v></Cell>
+        <Cell r="J16" s="3"><v>• Solicitudes del CRM
+• (Sin tareas específicas)</v></Cell>
+        <Cell r="M16" s="3"><v>• JIRAs SOVEN
+• JIRAs SOVEN-Operaciones</v></Cell>
+      </Row>
+    </SheetData>
+  </Worksheet>
+</Workbook>
